@@ -41,7 +41,6 @@ Make sure you have [Python](https://www.python.org/downloads/) installed on your
 
 Addfress_Raffle/
 <br>├── tkinter_address_raffle.py
-<br>├── LICENSE
 <br>└── README.md
 
 ## **License**
